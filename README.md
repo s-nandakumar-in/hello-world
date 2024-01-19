@@ -1,2 +1,2 @@
 # hello-world
-simple code for test just to try out GitHub repository
+simple code for test just to try out GitHub repository...
